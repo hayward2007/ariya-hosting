@@ -1,0 +1,20 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 560">
+<g clip-path="url(#clip0_442_1183)">
+<rect y="0.5" width="24" height="24" rx="12" fill="#DBDBDB"/>
+<g id="keyboard_arrow_up">
+<mask id="mask0_442_1183" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="25">
+<rect id="Bounding box" y="0.357056" width="24" height="24" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_442_1183)">
+<path id="keyboard_arrow_up_2" d="M12 11.1571L8.09999 15.0571C7.91665 15.2404 7.68332 15.3321 7.39999 15.3321C7.11665 15.3321 6.88332 15.2404 6.69999 15.0571C6.51665 14.8737 6.42499 14.6404 6.42499 14.3571C6.42499 14.0737 6.51665 13.8404 6.69999 13.6571L11.3 9.05708C11.5 8.85708 11.7333 8.75708 12 8.75708C12.2667 8.75708 12.5 8.85708 12.7 9.05708L17.3 13.6571C17.4833 13.8404 17.575 14.0737 17.575 14.3571C17.575 14.6404 17.4833 14.8737 17.3 15.0571C17.1167 15.2404 16.8833 15.3321 16.6 15.3321C16.3167 15.3321 16.0833 15.2404 15.9 15.0571L12 11.1571Z" fill="#363636"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_442_1183">
+<rect y="0.5" width="24" height="24" rx="12" fill="white"/>
+</clipPath>
+</defs>
+</svg>
